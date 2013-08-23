@@ -1,4 +1,4 @@
 thymeleavery
 ============
 
-My thyme with this awesome templating engine
+Remembering the good thymes
